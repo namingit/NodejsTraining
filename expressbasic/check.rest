@@ -1,0 +1,24 @@
+
+GET http://localhost:3000/
+
+Content-Type: text/plain
+
+###
+POST http://localhost:3000/hello
+
+Content-Type: text/plain
+
+###
+DELETE http://localhost:3000/hai
+
+Content-Type: text/plain
+
+###
+PUT http://localhost:3000/how
+
+Content-Type: text/plain
+
+###
+PATCH  http://localhost:3000/you
+
+Content-Type: text/plain
